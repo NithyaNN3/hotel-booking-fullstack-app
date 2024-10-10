@@ -1,1 +1,1 @@
-# hotel-booking-fullstack-app
+# Hotel Booking Application
